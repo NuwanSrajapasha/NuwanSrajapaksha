@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nuwan S Rajapaksha</h1>
-<h3 align="center">A passionate frontend developer Sri Lanka</h3>
+<h1 align="center">Hi , I'm Nuwan S Rajapaksha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/NuwanSrajapasha/NuwanSrajapaksha/edit/main/README.md"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@ou.ac.lk;Competitive+Programmer;;Always+learning+new+things"></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwansrajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="nuwansrajapaksha" /> </p>
 
-- 🌱 I’m currently learning **software engineering**
+<br>
 
-- 📫 How to reach me **sirinuwan018@gmail.com**
 
-- ⚡ Fun fact **Nuwa**
 
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/nuwan-s-rajapaksha-896253299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nuwan-s-rajapaksha-896253299" height="30" width="40" /></a>
